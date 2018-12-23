@@ -15,17 +15,56 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
+body {
+  background: #181818;
+}
 .App {
   text-align: center;
   background: #181818;
 }
+@media (max-width: 440px) {
+  .App div:nth-child(n + 30) {
+    display: none;
+  }
+}
+@media (max-width: 440px) {
+  .App .shown {
+    display: inline-block !important;
+  }
+}
 .image__container {
+  width: 389px;
+  background-size: no-repeat;
+  background-color: black;
   cursor: pointer;
   position: relative;
-  background: black;
   display: inline-block;
   margin: 0.8rem;
   height: 94px;
+}
+@media (max-width: 440px) {
+  .image__container {
+    width: 90%;
+    max-width: 100%;
+    margin: 0.8rem auto;
+  }
+}
+button {
+  display: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  border: 1px solid white;
+  background: rgba(0, 0, 0, 0);
+  color: white;
+  margin: 0.5rem auto 1rem;
+}
+@media (max-width: 440px) {
+  button {
+    display: block;
+  }
+}
+.hidden {
+  display: none;
 }
 .characterName {
   color: white;

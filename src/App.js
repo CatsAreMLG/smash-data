@@ -31,12 +31,12 @@ const images = importAll(
 );
 
 for (let i = 0; i < images.length; i++) {
-  console.log(Object.keys(images[i])[0]);
+  const style = { backgroundImage: `url(${Object.values(images[i])})` };
   arr.push(
-    <div className="image__container">
+    <div style={style} className="image__container">
       <span className="characterName">{Object.keys(images[i])[0].split`.png`
         .join``.split`_`.map(e => e.toUpperCase()).join` `}</span>
-      <img src={Object.values(images[i])} alt={Object.keys(images[i])[0]} />
+      {/* <img src={Object.values(images[i])} alt={Object.keys(images[i])[0]} /> */}
     </div>
   );
 }
