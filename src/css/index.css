@@ -20,13 +20,14 @@ code {
   background: #181818;
 }
 .image__container {
+  cursor: pointer;
   position: relative;
   background: black;
   display: inline-block;
   margin: 0.8rem;
   height: 94px;
 }
-span {
+.characterName {
   color: white;
   position: absolute;
   top: 50%;
