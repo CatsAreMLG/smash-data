@@ -2,13 +2,26 @@ import React, { Component } from "react";
 import "./css/App.css";
 import fighterNames from "./names";
 
+function getKeyByValue(object, value) {
+  return Object.keys(object).find(key => object[key] === value);
+}
+
+let newList = [];
+
 function importAll(r) {
   let images = {};
   r.keys().map((item, index) => {
     images[item.replace("./", "")] = r(item);
   });
-  console.log(images);
-  return images;
+  for (let i = 1; i <= Object.keys(fighterNames).length; i++) {
+    let value = fighterNames[i].toLowerCase().split` `.join`_`;
+    value += ".png";
+    let x = getKeyByValue(images, images[value]);
+    let obj = {};
+    obj[x] = images[value];
+    newList.push(obj);
+  }
+  return newList;
 }
 
 const images = importAll(
@@ -17,12 +30,12 @@ const images = importAll(
 
 let arr = [];
 
-for (let i in images) {
+for (let i = 0; i < images.length; i++) {
   arr.push(
     <div className="image__container">
-      <span>{i.split`.png`.join``.split`_`.map(e => e.toUpperCase())
-        .join` `}</span>
-      <img src={images[i]} alt="mario" />
+      {/* <span>{images[i].split`.png`.join``.split`_`.map(e => e.toUpperCase())
+        .join` `}</span> */}
+      <img src={Object.values(images[i])} alt="mario" />
     </div>
   );
 }
