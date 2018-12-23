@@ -23,7 +23,7 @@ body {
   background: #181818;
 }
 @media (max-width: 440px) {
-  .App div:nth-child(n + 30) {
+  .App div:nth-child(n + 10) {
     display: none;
   }
 }
