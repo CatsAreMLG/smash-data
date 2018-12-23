@@ -30,7 +30,7 @@ const images = importAll(
   require.context("./images/characters", false, /\.(png|jpe?g|svg)$/)
 );
 
-for (let i = 0; i < images.length / 10; i++) {
+for (let i = 0; i < images.length; i++) {
   const style = { backgroundImage: `url(${Object.values(images[i])})` };
   arr.push(
     <div style={style} className="image__container">
