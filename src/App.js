@@ -31,11 +31,13 @@ const images = importAll(
 let arr = [];
 
 for (let i = 0; i < images.length; i++) {
+  console.log(Object.keys(images[i])[0]);
   arr.push(
     <div className="image__container">
-      {/* <span>{images[i].split`.png`.join``.split`_`.map(e => e.toUpperCase())
-        .join` `}</span> */}
-      <img src={Object.values(images[i])} alt="mario" />
+      <span>{Object.keys(images[i])[0].split`.png`.join``.split`_`.map(e =>
+        e.toUpperCase()
+      ).join` `}</span>
+      <img src={Object.values(images[i])} alt={Object.keys(images[i])[0]} />
     </div>
   );
 }
