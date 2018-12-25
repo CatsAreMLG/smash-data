@@ -18,6 +18,15 @@ code {
 body {
   background: #181818;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  color: white;
+}
 .App {
   text-align: center;
   background: #181818;
