@@ -7,9 +7,11 @@ function getKeyByValue(object, value) {
   return Object.keys(object).find(key => object[key] === value);
 }
 
+//variables
 let newList = [];
 let arr = [];
 
+// functions
 function importAll(r) {
   let images = {};
   r.keys().map(item => {
@@ -40,6 +42,7 @@ for (let i = 0; i < images.length; i++) {
     </div>
   );
 }
+//classes
 class App extends Component {
   state = {
     characters: []
