@@ -2,7 +2,6 @@ import React from "react";
 
 const Characters = props => {
   const more = e => {
-    console.log("hi");
     document
       .querySelectorAll(".App div:nth-child(n+30)")
       .forEach(character => character.classList.add("shown"));

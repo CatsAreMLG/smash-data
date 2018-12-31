@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./css/App.css";
 import fighterNames from "./names";
 import Characters from "./components/characters/characters";
+import Data from "./components/data/data";
 
 function getKeyByValue(object, value) {
   return Object.keys(object).find(key => object[key] === value);
@@ -35,7 +36,7 @@ const images = importAll(
 for (let i = 0; i < images.length; i++) {
   const style = { backgroundImage: `url(${Object.values(images[i])})` };
   arr.push(
-    <div style={style} className="image__container">
+    <div key={`char-${i + 1}`} style={style} className="image__container">
       <span className="characterName">{Object.keys(images[i])[0].split`.png`
         .join``.split`_`.map(e => e.toUpperCase()).join` `}</span>
       {/* <img src={Object.values(images[i])} alt={Object.keys(images[i])[0]} /> */}
@@ -45,7 +46,8 @@ for (let i = 0; i < images.length; i++) {
 //classes
 class App extends Component {
   state = {
-    characters: []
+    characters: [],
+    data: []
   };
 
   componentDidMount() {
@@ -61,6 +63,7 @@ class App extends Component {
           <h1>Super Smash Bros. Ultimate</h1>
           <h2>Frame Data</h2>
         </div>
+        <Data data={this.state.data} />
         <Characters characters={this.state.characters} />
       </>
     );
