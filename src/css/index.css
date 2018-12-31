@@ -27,6 +27,9 @@ h6 {
   text-align: center;
   color: white;
 }
+.title {
+  margin: 2rem 0 1rem;
+}
 .App {
   text-align: center;
   background: #181818;

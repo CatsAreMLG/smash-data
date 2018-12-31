@@ -57,8 +57,10 @@ class App extends Component {
   render() {
     return (
       <>
-        <h1>Super Smash Bros. Ultimate</h1>
-        <h2>Frame Data</h2>
+        <div className="title">
+          <h1>Super Smash Bros. Ultimate</h1>
+          <h2>Frame Data</h2>
+        </div>
         <Characters characters={this.state.characters} />
       </>
     );
