@@ -4,6 +4,8 @@ import fighterNames from "./names";
 import Characters from "./components/characters/characters";
 import Data from "./components/data/data";
 
+const frameData = require("./FrameData.json");
+
 function getKeyByValue(object, value) {
   return Object.keys(object).find(key => object[key] === value);
 }
@@ -47,12 +49,15 @@ for (let i = 0; i < images.length; i++) {
 class App extends Component {
   state = {
     characters: [],
-    data: []
+    frameData: []
   };
 
   componentDidMount() {
+    let x = this.state.frameData;
+    x.push(frameData);
     this.setState({
-      characters: arr
+      characters: arr,
+      frameData: x
     });
   }
 
@@ -63,7 +68,7 @@ class App extends Component {
           <h1>Super Smash Bros. Ultimate</h1>
           <h2>Frame Data</h2>
         </div>
-        <Data data={this.state.data} />
+        <Data data={this.state.frameData} />
         <Characters characters={this.state.characters} />
       </>
     );
