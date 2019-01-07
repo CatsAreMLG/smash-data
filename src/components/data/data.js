@@ -11,12 +11,30 @@ const Data = props => {
       }
       eArr.push([e, xArr]);
     }
-    eArr.push([i, eArr]);
     arr.push([i, eArr]);
   }
+  console.log(arr);
   return (
     <div>
-      <div>{console.log(arr)}</div>
+      {arr.map(e => {
+        return (
+          <div className="characterData">
+            {e[0]}
+            <div className="characterData__moves">
+              {e[1].map(i => {
+                return (
+                  <div className="characterData__data">
+                    {i[0]}
+                    {i[1].map(x => {
+                      return <div>{`${x[0]}: ${x[1]}`}</div>;
+                    })}
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        );
+      })}
     </div>
   );
 };

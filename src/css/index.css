@@ -87,3 +87,16 @@ button {
   font-size: 1.25rem;
   font-weight: bold;
 }
+.characterData {
+  background: grey;
+  margin: 1rem;
+  color: black;
+  display: flex;
+}
+.characterData__moves {
+  display: flex;
+  flex-wrap: wrap;
+}
+.characterData__data {
+  border: 1px solid black;
+}
