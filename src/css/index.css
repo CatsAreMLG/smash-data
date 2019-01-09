@@ -91,7 +91,7 @@ button {
   background: grey;
   margin: 1rem;
   color: black;
-  display: flex;
+  display: none;
 }
 .characterData__moves {
   display: flex;
