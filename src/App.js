@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import "./css/App.css";
 import fighterNames from "./names";
-import Characters from "./components/characters/characters";
-import Data from "./components/data/data";
+import Characters from "./components/characters/Characters";
+import Data from "./components/data/Data";
 
 const frameData = require("./FrameData.json");
 
@@ -56,7 +56,7 @@ class App extends Component {
     let x = this.state.frameData;
     x.push(frameData);
     this.setState({
-      characters: arr,
+      characters: images,
       frameData: x
     });
   }
@@ -69,7 +69,7 @@ class App extends Component {
           <h2>Frame Data</h2>
         </div>
         <Data data={this.state.frameData} />
-        <Characters characters={this.state.characters} />
+        <Characters characters={this.state.characters} import={importAll} />
       </>
     );
   }

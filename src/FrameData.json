@@ -670,7 +670,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17."
     }
   },
-  "04 -Samus": {
+  "04 - Samus": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "17",
@@ -3652,7 +3652,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17"
     }
   },
-  "18 - Dr. Mario": {
+  "18 - Dr Mario": {
     "Jab ": {
       "Startup": "2",
       "Total Frames": "19",
@@ -5413,7 +5413,7 @@
       "Additional Notes": "Invulnerable from 5-16"
     }
   },
-  "26 - Mr. Game & Watch": {
+  "26 - Mr Game And Watch": {
     "Jab ": {
       "Startup": "4",
       "Total Frames": "",
@@ -8200,7 +8200,7 @@
       "Additional Notes": "Invulnerable on frame 4-15"
     }
   },
-  "39 King Dedede": {
+  "39 - King Dedede": {
     "Jab 1": {
       "Startup": "10",
       "Total Frames": "32",
@@ -8850,7 +8850,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-12"
     }
   },
-  "42 - R.O.B.": {
+  "42 - ROB": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "20",
@@ -10093,7 +10093,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-16"
     }
   },
-  "48 - Rosalina & Luma": {
+  "48 - Rosalina And Luma": {
     "Jab 1": {
       "Startup": "5",
       "Total Frames": "20",
@@ -11137,7 +11137,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17"
     }
   },
-  "52 - PAC-MAN": {
+  "52 - Pac Man": {
     "Jab 1": {
       "Startup": "4",
       "Total Frames": "19",
