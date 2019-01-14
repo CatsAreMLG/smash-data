@@ -30,10 +30,17 @@ const Characters = props => {
     );
   }
 
+  document
+    .querySelectorAll(".App div:nth-child(n + 10)")
+    .forEach(character => character.classList.add("hidden"));
+
   const more = e => {
     document
       .querySelectorAll(".App div:nth-child(n+30)")
-      .forEach(character => character.classList.add("shown"));
+      .forEach(character => character.classList.toggle("shown"));
+    document
+      .querySelectorAll(".App div:nth-child(n+30)")
+      .forEach(character => character.classList.toggle("hidden"));
     e.target.classList.toggle("hidden");
   };
 

@@ -38,12 +38,10 @@ h6 {
   justify-content: center;
 }
 @media (max-width: 440px) {
-  .App div:nth-child(n + 10) {
-    display: none;
-  }
 }
 @media (max-width: 440px) {
-  .App .shown {
+  .shown {
+    display: block;
     width: 100%;
   }
 }
@@ -78,7 +76,7 @@ button {
   }
 }
 .hidden {
-  display: none;
+  display: none !important;
 }
 .dataButton {
   color: white;
@@ -119,8 +117,15 @@ table {
   left: 50%;
   transform: translateX(-50%);
   z-index: 100;
-  width: 50vw;
+  width: 75vw;
   border-spacing: 0;
+  table-layout: auto;
+}
+@media (max-width: 460px) {
+  table {
+    left: 0;
+    transform: translateX(0);
+  }
 }
 table td {
   padding: 0.25rem;
