@@ -66,7 +66,7 @@ const fighterNames = {
   65: "Bayonetta",
   66: "Inkling",
   67: "Ridley",
-  68: "Simon Belmont",
+  68: "Simon",
   69: "Richter",
   70: "King K Rool",
   71: "Isabelle",

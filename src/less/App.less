@@ -19,6 +19,9 @@ h6 {
 .App {
   text-align: center;
   background: rgb(24, 24, 24);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .App div:nth-child(n + 10) {
@@ -29,7 +32,7 @@ h6 {
 
 .App .shown {
   @media (max-width: 440px) {
-    display: inline-block !important;
+    width: 100%;
   }
 }
 
@@ -39,13 +42,13 @@ h6 {
   background-color: black;
   cursor: pointer;
   position: relative;
-  display: inline-block;
+  // display: inline-block;
   margin: 0.8rem;
   height: 94px;
   @media (max-width: 440px) {
-    width: 90%;
-    max-width: 100%;
+    width: 90vw;
     margin: 0.8rem auto;
+    background-size: cover;
   }
 }
 
@@ -74,9 +77,14 @@ button {
   color: white;
   cursor: pointer;
   user-select: none;
-  // display: inline-block;
+  display: inline-block;
   padding: 0.25rem;
   border-radius: 3px;
+}
+
+.characterContainer {
+  display: flex;
+  flex-direction: column;
 }
 
 .characterName {

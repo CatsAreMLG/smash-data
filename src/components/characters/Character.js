@@ -23,7 +23,7 @@ class Character extends React.Component {
 
   render() {
     return (
-      <>
+      <div className="characterContainer">
         {this.props.children}
         <div className="dataButton" onClick={this.showData}>
           {!this.state.showState ? "Show Data" : "Hide Data"}
@@ -31,7 +31,7 @@ class Character extends React.Component {
         {this.state.showState && (
           <Data data={this.props.data} name={this.props.name} />
         )}
-      </>
+      </div>
     );
   }
 }
