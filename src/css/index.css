@@ -81,6 +81,13 @@ button {
 .data {
   position: relative;
 }
+.dataButton {
+  color: white;
+  cursor: pointer;
+  user-select: none;
+  padding: 0.25rem;
+  border-radius: 3px;
+}
 .characterName {
   color: white;
   position: absolute;
@@ -101,4 +108,11 @@ button {
 }
 .characterData__data {
   border: 1px solid black;
+}
+table {
+  background: white;
+}
+.tableName {
+  background: white;
+  color: black;
 }

@@ -13,17 +13,11 @@ const Data = props => {
   if (props.data) {
     for (let i in props.data[props.name]) {
       moves.push(<div>{i}</div>);
-      description.push([
-        props.data[props.name][i][type[0]],
-        props.data[props.name][i][type[1]],
-        props.data[props.name][i][type[2]],
-        props.data[props.name][i][type[3]],
-        props.data[props.name][i][type[4]]
-      ]);
+      description.push(type.map(type => props.data[props.name][i][type]));
     }
     return (
       <div className="data">
-        <div>{props.name}</div>
+        <h3 className="tableName">{props.name}</h3>
         <table>
           <tr>
             <th>Move</th>
