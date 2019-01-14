@@ -19,20 +19,23 @@ const Data = props => {
       <div className="data">
         <h3 className="tableName">{props.name}</h3>
         <table>
-          <tr>
-            <th>Move</th>
-            {type.map(type => (
-              <th>{type}</th>
-            ))}
-          </tr>
-          {console.log(description)}
-          {moves.map((move, i) => (
+          <thead>
             <tr>
-              <td>{moves[i]}</td>
-              {description[i].map(desc => (
-                <td>{desc}</td>
+              <th>Move</th>
+              {type.map((type, i) => (
+                <th key={`${type}-${i}`}>{type}</th>
               ))}
             </tr>
+          </thead>
+          {moves.map((move, i) => (
+            <tbody key={`${move}-${i}`}>
+              <tr>
+                <td>{moves[i]}</td>
+                {description[i].map((desc, i) => (
+                  <td key={`${desc}-${i}`}>{desc}</td>
+                ))}
+              </tr>
+            </tbody>
           ))}
         </table>
       </div>

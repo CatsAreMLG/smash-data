@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import "./css/App.css";
 import fighterNames from "./names";
 import Characters from "./components/characters/Characters";
-import Data from "./components/data/Data";
 
 const frameData = require("./FrameData.json");
 
@@ -17,9 +16,7 @@ let arr = [];
 // functions
 function importAll(r) {
   let images = {};
-  r.keys().map(item => {
-    images[item.replace("./", "")] = r(item);
-  });
+  r.keys().map(item => (images[item.replace("./", "")] = r(item)));
   for (let i = 1; i <= Object.keys(fighterNames).length; i++) {
     let value = fighterNames[i].toLowerCase().split` `.join`_`;
     value += ".png";
@@ -41,7 +38,6 @@ for (let i = 0; i < images.length; i++) {
     <div key={`char-${i + 1}`} style={style} className="image__container">
       <span className="characterName">{Object.keys(images[i])[0].split`.png`
         .join``.split`_`.map(e => e.toUpperCase()).join` `}</span>
-      {/* <img src={Object.values(images[i])} alt={Object.keys(images[i])[0]} /> */}
     </div>
   );
 }
