@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./css/App.css";
 import fighterNames from "./names";
-import Characters from "./components/characters/characters";
+import Characters from "./components/characters/Characters";
 
 const frameData = require("./FrameData.json");
 
