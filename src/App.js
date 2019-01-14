@@ -68,8 +68,11 @@ class App extends Component {
           <h1>Super Smash Bros. Ultimate</h1>
           <h2>Frame Data</h2>
         </div>
-        <Data data={this.state.frameData} />
-        <Characters characters={this.state.characters} import={importAll} />
+        <Characters
+          data={this.state.frameData[0]}
+          characters={this.state.characters}
+          import={importAll}
+        />
       </>
     );
   }

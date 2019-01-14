@@ -78,6 +78,9 @@ button {
 .hidden {
   display: none;
 }
+.data {
+  position: relative;
+}
 .characterName {
   color: white;
   position: absolute;
@@ -91,7 +94,6 @@ button {
   background: grey;
   margin: 1rem;
   color: black;
-  display: none;
 }
 .characterData__moves {
   display: flex;

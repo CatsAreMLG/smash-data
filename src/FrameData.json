@@ -1,5 +1,5 @@
 {
-  "01 - Mario": {
+  "Mario": {
     "Jab 1": {
       "Startup": "2",
       "Total Frames": "19",
@@ -204,7 +204,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-16."
     }
   },
-  "02 - Donkey Kong": {
+  "Donkey Kong": {
     "Jab 1": {
       "Startup": "5",
       "Total Frames": "24",
@@ -444,7 +444,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-16."
     }
   },
-  "03 - Link": {
+  "Link": {
     "Jab 1": {
       "Startup": "8",
       "Total Frames": "24",
@@ -670,7 +670,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17."
     }
   },
-  "04 - Samus": {
+  "Samus": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "17",
@@ -896,7 +896,7 @@
       "Additional Notes": "Invulnerable on frame 5-20 from 4-23"
     }
   },
-  "05 - Yoshi": {
+  "Yoshi": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "17",
@@ -1101,7 +1101,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-21"
     }
   },
-  "06 - Kirby": {
+  "Kirby": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "15",
@@ -1327,7 +1327,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17."
     }
   },
-  "07 - Fox": {
+  "Fox": {
     "Jab 1": {
       "Startup": "2",
       "Total Frames": "17",
@@ -1539,7 +1539,7 @@
       "Additional Notes": "Invulnerable on frame 4-14."
     }
   },
-  "08 - Pikachu": {
+  "Pikachu": {
     "Jab ": {
       "Startup": "2",
       "Total Frames": "17",
@@ -1730,7 +1730,7 @@
       "Additional Notes": "Invulnerable on frame 4-15 from 4-14."
     }
   },
-  "09 - Luigi": {
+  "Luigi": {
     "Jab 1": {
       "Startup": "2",
       "Total Frames": "18",
@@ -1942,7 +1942,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17."
     }
   },
-  "10 - Ness": {
+  "Ness": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "19",
@@ -2161,7 +2161,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17."
     }
   },
-  "11 - Captain Falcon": {
+  "Captain Falcon": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "17",
@@ -2394,7 +2394,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-15."
     }
   },
-  "12 - Jigglypuff": {
+  "Jigglypuff": {
     "Jab 1": {
       "Startup": "5",
       "Total Frames": "16",
@@ -2592,7 +2592,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17."
     }
   },
-  "13 - Peach": {
+  "Peach": {
     "Jab 1": {
       "Startup": "2",
       "Total Frames": "27",
@@ -2804,7 +2804,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17."
     }
   },
-  "14 - Bowser": {
+  "Bowser": {
     "Jab 1": {
       "Startup": "7",
       "Total Frames": "25",
@@ -3023,7 +3023,7 @@
       "Additional Notes": "Invulnerable on frame 5-17 from 4-19."
     }
   },
-  "15 - Ice Climbers": {
+  "Ice Climbers": {
     "Jab 1": {
       "Startup": "4",
       "Total Frames": "27",
@@ -3228,7 +3228,7 @@
       "Additional Notes": "Invulnerable on frame 5-16"
     }
   },
-  "16 - Sheik": {
+  "Sheik": {
     "Jab 1": {
       "Startup": "2",
       "Total Frames": "17",
@@ -3447,7 +3447,7 @@
       "Additional Notes": "Invulnerable on frame 4-14 from 4-15."
     }
   },
-  "17 - Zelda": {
+  "Zelda": {
     "Jab ": {
       "Startup": "4/7",
       "Total Frames": "24",
@@ -3652,7 +3652,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17"
     }
   },
-  "18 - Dr Mario": {
+  "Dr Mario": {
     "Jab ": {
       "Startup": "2",
       "Total Frames": "19",
@@ -3857,7 +3857,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-16."
     }
   },
-  "19 - Pichu": {
+  "Pichu": {
     "Jab ": {
       "Startup": "2",
       "Total Frames": "16",
@@ -4048,7 +4048,7 @@
       "Additional Notes": "Invulnerable on frame 4-15"
     }
   },
-  "20 - Falco": {
+  "Falco": {
     "Jab ": {
       "Startup": "2",
       "Total Frames": "22",
@@ -4260,7 +4260,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-16."
     }
   },
-  "21 - Marth": {
+  "Marth": {
     "Jab ": {
       "Startup": "5",
       "Total Frames": "25",
@@ -4521,7 +4521,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-16"
     }
   },
-  "22 - Young Link": {
+  "Young Link": {
     "Jab ": {
       "Startup": "6",
       "Total Frames": "19",
@@ -4721,7 +4721,7 @@
       "Additional Notes": "Invulnerable on frame 4-15"
     }
   },
-  "23 - Ganondorf": {
+  "Ganondorf": {
     "Jab ": {
       "Startup": "7",
       "Total Frames": "26",
@@ -4947,7 +4947,7 @@
       "Additional Notes": "Invulnerable on frame 5-17 from 4-19"
     }
   },
-  "24 - Mewtwo": {
+  "Mewtwo": {
     "Jab ": {
       "Startup": "6",
       "Total Frames": "22",
@@ -5159,7 +5159,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-13"
     }
   },
-  "25 - Roy": {
+  "Roy": {
     "Jab ": {
       "Startup": "5",
       "Total Frames": "22",
@@ -5413,7 +5413,7 @@
       "Additional Notes": "Invulnerable from 5-16"
     }
   },
-  "26 - Mr Game And Watch": {
+  "Mr Game And Watch": {
     "Jab ": {
       "Startup": "4",
       "Total Frames": "",
@@ -5625,7 +5625,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-16"
     }
   },
-  "27 - Meta Knight": {
+  "Meta Knight": {
     "Rapid Jab": {
       "Startup": "4/7/10...",
       "Total Frames": "",
@@ -5851,7 +5851,7 @@
       "Additional Notes": "Invulnerable on frame 4-15"
     }
   },
-  "28 - Pit": {
+  "Pit": {
     "Jab 1": {
       "Startup": "5",
       "Total Frames": "26",
@@ -6077,7 +6077,7 @@
       "Additional Notes": "Invulnerable on frame 5-16"
     }
   },
-  "29 - Zero Suit Samus": {
+  "Zero Suit Samus": {
     "Jab 1": {
       "Startup": "1",
       "Total Frames": "23",
@@ -6296,7 +6296,7 @@
       "Additional Notes": "Invulnerable on frame 4-14 from 4-15"
     }
   },
-  "30 - Wario": {
+  "Wario": {
     "Jab 1": {
       "Startup": "8",
       "Total Frames": "29",
@@ -6536,7 +6536,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-16"
     }
   },
-  "31 - Snake": {
+  "Snake": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "15",
@@ -6754,7 +6754,7 @@
       "Additional Notes": "Invulnerable on frame 5-16"
     }
   },
-  "32 - Ike": {
+  "Ike": {
     "Jab 1": {
       "Startup": "4",
       "Total Frames": "23",
@@ -6966,7 +6966,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-18"
     }
   },
-  "33- Squirtle": {
+  "Squirtle": {
     "Jab 1": {
       "Startup": "2",
       "Total Frames": "16",
@@ -7142,7 +7142,7 @@
       "Additional Notes": "Invulnerable on frame 4-15"
     }
   },
-  "34 - Ivysaur": {
+  "Ivysaur": {
     "Jab 1": {
       "Startup": "7",
       "Total Frames": "27",
@@ -7324,7 +7324,7 @@
       "Additional Notes": "Invulnerable on frame 5-16"
     }
   },
-  "35 - Charizard": {
+  "Charizard": {
     "Jab 1": {
       "Startup": "4",
       "Total Frames": "22",
@@ -7529,7 +7529,7 @@
       "Additional Notes": "Invulnerable on frame 5-17 from 4-16"
     }
   },
-  "36 - Diddy Kong": {
+  "Diddy Kong": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "19",
@@ -7769,7 +7769,7 @@
       "Additional Notes": "Invulnerable on frame 4-15"
     }
   },
-  "37 - Lucas": {
+  "Lucas": {
     "Jab 1": {
       "Startup": "2",
       "Total Frames": "19",
@@ -7988,7 +7988,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17"
     }
   },
-  "38 - Sonic": {
+  "Sonic": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "19",
@@ -8200,7 +8200,7 @@
       "Additional Notes": "Invulnerable on frame 4-15"
     }
   },
-  "39 - King Dedede": {
+  "King Dedede": {
     "Jab 1": {
       "Startup": "10",
       "Total Frames": "32",
@@ -8426,7 +8426,7 @@
       "Additional Notes": "Invulnerable on frame 5-17 from 4-19"
     }
   },
-  "40 - Olimar": {
+  "Olimar": {
     "Jab 1": {
       "Startup": "4",
       "Total Frames": "19",
@@ -8624,7 +8624,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-16"
     }
   },
-  "41 - Lucario": {
+  "Lucario": {
     "Jab 1": {
       "Startup": "7",
       "Total Frames": "31",
@@ -8850,7 +8850,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-12"
     }
   },
-  "42 - ROB": {
+  "ROB": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "20",
@@ -9062,7 +9062,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-16"
     }
   },
-  "43 - Toon Link": {
+  "Toon Link": {
     "Jab 1": {
       "Startup": "5",
       "Total Frames": "18",
@@ -9281,7 +9281,7 @@
       "Additional Notes": "Invulnerable on frame 4-15"
     }
   },
-  "44 - Wolf": {
+  "Wolf": {
     "Jab 1": {
       "Startup": "4",
       "Total Frames": "21",
@@ -9457,7 +9457,7 @@
       "Additional Notes": "Invulnerable on frame 5-16"
     }
   },
-  "45 - Villager": {
+  "Villager": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "21",
@@ -9697,7 +9697,7 @@
       "Additional Notes": "Invulnerable on frame 5-16"
     }
   },
-  "46 - Mega Man": {
+  "Mega Man": {
     "Buster": {
       "Startup": "7/19/31",
       "Total Frames": "35/47/59",
@@ -9881,7 +9881,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17"
     }
   },
-  "47 - Wii Fit Trainer": {
+  "Wii Fit Trainer": {
     "Jab 1": {
       "Startup": "4",
       "Total Frames": "25",
@@ -10093,7 +10093,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-16"
     }
   },
-  "48 - Rosalina And Luma": {
+  "Rosalina And Luma": {
     "Jab 1": {
       "Startup": "5",
       "Total Frames": "20",
@@ -10431,7 +10431,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17"
     }
   },
-  "49 - Little Mac": {
+  "Little Mac": {
     "Jab 1": {
       "Startup": "1",
       "Total Frames": "21",
@@ -10692,7 +10692,7 @@
       "Additional Notes": "Invulnerable on frame 4-14 from 4-12"
     }
   },
-  "50 - Greninja": {
+  "Greninja": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "21",
@@ -10918,7 +10918,7 @@
       "Additional Notes": "Invulnerability on frame 4-15 from 4-14"
     }
   },
-  "51 - Palutena": {
+  "Palutena": {
     "Jab 1": {
       "Startup": "8",
       "Total Frames": "24",
@@ -11137,7 +11137,7 @@
       "Additional Notes": "Invulnerable on frame 5-16 from 4-17"
     }
   },
-  "52 - Pac Man": {
+  "Pac Man": {
     "Jab 1": {
       "Startup": "4",
       "Total Frames": "19",
@@ -11342,7 +11342,7 @@
       "Additional Notes": "Invulnerable on frame 5-16"
     }
   },
-  "53 - Robin": {
+  "Robin": {
     "Jab 1": {
       "Startup": "4",
       "Total Frames": "31",
@@ -11608,7 +11608,7 @@
       "Tomes": ""
     }
   },
-  "64 - Inkling": {
+  "Inkling": {
     "Jab 1": {
       "Startup": "3",
       "Total Frames": "19",
@@ -11796,7 +11796,7 @@
       "Additional Notes": "Invulnerable on frame 5-16"
     }
   },
-  "65 - Ridley": {
+  "Ridley": {
     "Jab 1": {
       "Startup": "4",
       "Total Frames": "23",
@@ -12002,7 +12002,7 @@
       "Additional Notes": "Invulnerable on frame 5-17"
     }
   },
-  "66 - Simon": {
+  "Simon": {
     "Jab 1": {
       "Startup": "5",
       "Total Frames": "29",
@@ -12202,7 +12202,7 @@
       "Additional Notes": "Invulnerable on frame 5-16"
     }
   },
-  "67 - King K Rool": {
+  "King K Rool": {
     "Jab 1": {
       "Startup": "4",
       "Total Frames": "24",
@@ -12396,7 +12396,7 @@
       "Additional Notes": "Invulnerable on frame 5-17"
     }
   },
-  "68 - Isabelle": {
+  "Isabelle": {
     "Jab ": {
       "Startup": "3",
       "Total Frames": "19",
@@ -12596,7 +12596,7 @@
       "Additional Notes": "Invulnerable on frame 5-16"
     }
   },
-  "69 - Incineroar": {
+  "Incineroar": {
     "Jab 1": {
       "Startup": "5",
       "Total Frames": "23",
