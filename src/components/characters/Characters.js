@@ -29,25 +29,27 @@ const Characters = props => {
       </Character>
     );
   }
-
-  document
-    .querySelectorAll(".App div:nth-child(n + 10)")
-    .forEach(character => character.classList.add("hidden"));
-
-  const more = e => {
-    document
-      .querySelectorAll(".App div:nth-child(n+30)")
-      .forEach(character => character.classList.toggle("shown"));
-    document
-      .querySelectorAll(".App div:nth-child(n+30)")
-      .forEach(character => character.classList.toggle("hidden"));
-    e.target.classList.toggle("hidden");
-  };
+  //   if (window.innerWidth <= 440) {
+  //     document
+  //       .querySelectorAll(".App div:nth-child(n + 10)")
+  //       .forEach(character => character.classList.add("hidden"));
+  //   }
+  //   const more = e => {
+  //     document
+  //       .querySelectorAll(".App div:nth-child(n+30)")
+  //       .forEach(character => character.classList.toggle("shown"));
+  //     document
+  //       .querySelectorAll(".App div:nth-child(n+30)")
+  //       .forEach(character => character.classList.toggle("hidden"));
+  //     e.target.classList.toggle("hidden");
+  //   };
 
   return (
     <>
-      <div className="App">{arr}</div>
-      <button onClick={more}>See More</button>
+      <div className="App">
+        {arr}
+        {/* <button onClick={more}>See More</button> */}
+      </div>
     </>
   );
 };
