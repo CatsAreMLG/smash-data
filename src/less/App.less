@@ -118,12 +118,18 @@ table {
   transform: translateX(-50%);
   z-index: 100;
   width: 50vw;
+  border-spacing: 0;
+  td {
+    padding: 0.25rem;
+  }
+  th {
+    border-bottom: 1px solid #ccc;
+    padding: 0.25rem;
+  }
+  tbody:nth-child(odd) {
+    background: #eee;
+  }
 }
 .tableName {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  background: white;
-  color: black;
-  width: 50vw;
+  color: white;
 }
