@@ -9,7 +9,7 @@
       "Base Damage": "2.2",
       "Shieldlag": "8",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-14"
     },
     "Jab 2": {
@@ -21,7 +21,7 @@
       "Base Damage": "1.7",
       "Shieldlag": "5",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-16"
     },
     "Jab 3": {
@@ -33,7 +33,7 @@
       "Base Damage": "4.0",
       "Shieldlag": "11",
       "Shieldstun": "5",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-29"
     },
     "F-Tilt": {
@@ -45,7 +45,7 @@
       "Base Damage": "7.0",
       "Shieldlag": "7",
       "Shieldstun": "7",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-13"
     },
     "U-Tilt": {
@@ -57,7 +57,7 @@
       "Base Damage": "5.5",
       "Shieldlag": "6",
       "Shieldstun": "6",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-18"
     },
     "D-Tilt": {
@@ -69,7 +69,7 @@
       "Base Damage": "7.0 /  5.0",
       "Shieldlag": "7/ 6",
       "Shieldstun": "7/ 6",
-      "<-Which hitbox?": "Close/ far",
+      "Which hitbox?": "Close/ far",
       "Advantage": "-15/ -16"
     },
     "Dash Attack": {
@@ -81,7 +81,7 @@
       "Base Damage": "8.0 /  6.0",
       "Shieldlag": "9/ 8",
       "Shieldstun": "14/ 11",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-17"
     },
     "F-Smash": {
@@ -93,7 +93,7 @@
       "Base Damage": "17.7 /  14.6",
       "Shieldlag": "11/ 10",
       "Shieldstun": "12/ 10",
-      "<-Which hitbox?": "Far/ Close",
+      "Which hitbox?": "Far/ Close",
       "Advantage": "-22/ -20"
     },
     "U-Smash": {
@@ -105,7 +105,7 @@
       "Base Damage": "14.0",
       "Shieldlag": "10",
       "Shieldstun": "10",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-20"
     },
     "D-Smash": {
@@ -117,7 +117,7 @@
       "Base Damage": "10.0 /  12.0",
       "Shieldlag": "8/ 9",
       "Shieldstun": "7/ 8",
-      "<-Which hitbox?": "First/ Second",
+      "Which hitbox?": "First/ Second",
       "Advantage": "-31/ -21"
     },
     "N-Air": {
@@ -129,7 +129,7 @@
       "Base Damage": "8.0 /  5.0 /  6.8 / \n4.2",
       "Shieldlag": "7/ 6/ 6/ 5",
       "Shieldstun": "4/ 3/ 3/ 3",
-      "<-Which hitbox?": "Early/ Late/ SH\nEarly/ SH Late",
+      "Which hitbox?": "Early/ Late/ SH\nEarly/ SH Late",
       "Advantage": "-2/ -3/ -3/ -3"
     },
     "F-Air": {
@@ -141,7 +141,7 @@
       "Base Damage": "12.0 /  14.0 /  11.9\n10.2",
       "Shieldlag": "10/ 9/ 9/ 8",
       "Shieldstun": "5/ 5/ 5/ 4",
-      "<-Which hitbox?": "Meteor/ Early/ SH\nMeteor/ SH Early",
+      "Which hitbox?": "Meteor/ Early/ SH\nMeteor/ SH Early",
       "Advantage": "-12/ -12/ -12/ -13"
     },
     "B-Air": {
@@ -153,7 +153,7 @@
       "Base Damage": "10.5 /  7.0 /  8.9 / \n5.9",
       "Shieldlag": "8/ 7/ 7/ 6",
       "Shieldstun": "4/ 3/ 4/ 3",
-      "<-Which hitbox?": "Early/ Late/  SH\nEarly/ SH Late",
+      "Which hitbox?": "Early/ Late/  SH\nEarly/ SH Late",
       "Advantage": "-2/ -3/ -2/ -3"
     },
     "U-Air": {
@@ -165,7 +165,7 @@
       "Base Damage": "7.0 /  5.9",
       "Shieldlag": "7/ 6",
       "Shieldstun": "3/ 3",
-      "<-Which hitbox?": "Normal/ SH",
+      "Which hitbox?": "Normal/ SH",
       "Advantage": "-3/ -3"
     },
     "D-Air": {
@@ -177,7 +177,7 @@
       "Base Damage": "1.3 /  5.5 /  1.1 / \n4.6 /  2.0",
       "Shieldlag": "4/ 6/ 4/ 6/ 4",
       "Shieldstun": "2/ 3/ 2/ 3/ 3",
-      "<-Which hitbox?": "Multihit/ Final/ SH\nMulti/  SH Final/ \nLanding",
+      "Which hitbox?": "Multihit/ Final/ SH\nMulti/  SH Final/ \nLanding",
       "Advantage": "-12 "
     },
     "Fireball": {
@@ -189,7 +189,7 @@
       "Base Damage": "5.0 /  4.0",
       "Shieldlag": "6/ 5",
       "Shieldstun": "3/ 2",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-23"
     },
     "Cape": {
@@ -201,7 +201,7 @@
       "Base Damage": "7.0",
       "Shieldlag": "7",
       "Shieldstun": "7",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-16"
     },
     "Super Jump Punch": {
@@ -213,7 +213,7 @@
       "Base Damage": "",
       "Shieldlag": "6/ 4/ 5",
       "Shieldstun": "6/ 2/ 4",
-      "<-Which hitbox?": "First/ multihit/ \nFinal",
+      "Which hitbox?": "First/ multihit/ \nFinal",
       "Advantage": ""
     },
     "F.L.U.D.D. ": {
@@ -225,7 +225,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "F.L.U.D.D. (full charge)": {
@@ -237,7 +237,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Grab": {
@@ -249,7 +249,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dash Grab ": {
@@ -261,7 +261,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Pivot Grab": {
@@ -273,7 +273,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Pummel": {
@@ -285,7 +285,7 @@
       "Base Damage": "1.2",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Throw": {
@@ -297,7 +297,7 @@
       "Base Damage": "8",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Throw": {
@@ -309,7 +309,7 @@
       "Base Damage": "11",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Up Throw": {
@@ -321,7 +321,7 @@
       "Base Damage": "7",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Down Throw": {
@@ -333,7 +333,7 @@
       "Base Damage": "5",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "": {
@@ -345,7 +345,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Spot Dodge": {
@@ -357,7 +357,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Roll": {
@@ -369,7 +369,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Roll": {
@@ -381,7 +381,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Neutral Air Dodge": {
@@ -393,7 +393,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (down)": {
@@ -405,7 +405,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally down)": {
@@ -417,7 +417,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (left or right)": {
@@ -429,7 +429,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally up)": {
@@ -441,7 +441,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (up)": {
@@ -453,7 +453,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     }
   },
@@ -467,7 +467,7 @@
       "Base Damage": "4.0",
       "Shieldlag": "8",
       "Shieldstun": "5",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-14"
     },
     "Jab 2": {
@@ -479,7 +479,7 @@
       "Base Damage": "6.0",
       "Shieldlag": "11",
       "Shieldstun": "6",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-24"
     },
     "F-Tilt": {
@@ -491,7 +491,7 @@
       "Base Damage": "8.0 /  9.0",
       "Shieldlag": "7/ 7",
       "Shieldstun": "8/ 9",
-      "<-Which hitbox?": "No angle/ angled",
+      "Which hitbox?": "No angle/ angled",
       "Advantage": "-19/ -18"
     },
     "U-Tilt": {
@@ -503,7 +503,7 @@
       "Base Damage": "10.0",
       "Shieldlag": "8",
       "Shieldstun": "10",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-23"
     },
     "D-Tilt": {
@@ -515,7 +515,7 @@
       "Base Damage": "6.0",
       "Shieldlag": "6",
       "Shieldstun": "6",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-12"
     },
     "Dash Attack": {
@@ -527,7 +527,7 @@
       "Base Damage": "12.0 /  9.0",
       "Shieldlag": "11/ 9",
       "Shieldstun": "11/ 9",
-      "<-Which hitbox?": "Early/ Late",
+      "Which hitbox?": "Early/ Late",
       "Advantage": "-14"
     },
     "F-Smash": {
@@ -539,7 +539,7 @@
       "Base Damage": "22.0 /  21.0",
       "Shieldlag": "16",
       "Shieldstun": "14",
-      "<-Which hitbox?": "Far/ Close",
+      "Which hitbox?": "Far/ Close",
       "Advantage": "-18"
     },
     "U-Smash": {
@@ -551,7 +551,7 @@
       "Base Damage": "19.0",
       "Shieldlag": "12",
       "Shieldstun": "13",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-22"
     },
     "D-Smash": {
@@ -563,7 +563,7 @@
       "Base Damage": "17.0",
       "Shieldlag": "11",
       "Shieldstun": "11",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-33"
     },
     "N-Air": {
@@ -575,7 +575,7 @@
       "Base Damage": "11.0 /  8.0",
       "Shieldlag": "8/ 7",
       "Shieldstun": "4/ 4",
-      "<-Which hitbox?": "Early/ Late",
+      "Which hitbox?": "Early/ Late",
       "Advantage": "-6"
     },
     "F-Air": {
@@ -587,7 +587,7 @@
       "Base Damage": "16.0/ 15.0",
       "Shieldlag": "10/ 15",
       "Shieldstun": "6/ 5",
-      "<-Which hitbox?": "Early/ Meteor",
+      "Which hitbox?": "Early/ Meteor",
       "Advantage": "-11/ -12"
     },
     "B-Air": {
@@ -599,7 +599,7 @@
       "Base Damage": "13.0 /  8.0",
       "Shieldlag": "9/ 7",
       "Shieldstun": "5/ 4",
-      "<-Which hitbox?": "Early/ Late",
+      "Which hitbox?": "Early/ Late",
       "Advantage": "-6/ -7"
     },
     "U-Air": {
@@ -611,7 +611,7 @@
       "Base Damage": "13.0",
       "Shieldlag": "9",
       "Shieldstun": "5",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-10"
     },
     "D-Air": {
@@ -623,7 +623,7 @@
       "Base Damage": "16.0",
       "Shieldlag": "10",
       "Shieldstun": "6",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-8"
     },
     "Giant Punch": {
@@ -635,7 +635,7 @@
       "Base Damage": "10.0 - 24.0",
       "Shieldlag": "8-14",
       "Shieldstun": "10-22",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-33 to -21"
     },
     "Giant Punch (full charge)": {
@@ -647,7 +647,7 @@
       "Base Damage": "28.0",
       "Shieldlag": "15",
       "Shieldstun": "24",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-4"
     },
     "Headbutt": {
@@ -659,7 +659,7 @@
       "Base Damage": "10.0",
       "Shieldlag": "8",
       "Shieldstun": "10",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-32"
     },
     "Spinning Kong": {
@@ -671,7 +671,7 @@
       "Base Damage": "5.0 /  1.3 /  4.0",
       "Shieldlag": "6/ 4/ 11",
       "Shieldstun": "6/ 3/ 5",
-      "<-Which hitbox?": "First/ multi/ Final",
+      "Which hitbox?": "First/ multi/ Final",
       "Advantage": "-37"
     },
     "Spinning Kong (air)": {
@@ -683,7 +683,7 @@
       "Base Damage": "5.0 /  1.0 /  2.0",
       "Shieldlag": "6/ 4/ 4",
       "Shieldstun": "6/ 2/ 3",
-      "<-Which hitbox?": "First/ multi/ Final",
+      "Which hitbox?": "First/ multi/ Final",
       "Advantage": ""
     },
     "Hand Slap": {
@@ -695,7 +695,7 @@
       "Base Damage": "14.0",
       "Shieldlag": "10",
       "Shieldstun": "8",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-23"
     },
     "Hand Slap (air)": {
@@ -707,7 +707,7 @@
       "Base Damage": "5.0 /  6.0",
       "Shieldlag": "6/ 6",
       "Shieldstun": "6/ 6",
-      "<-Which hitbox?": "First/ Second",
+      "Which hitbox?": "First/ Second",
       "Advantage": "-4"
     },
     "Grab": {
@@ -719,7 +719,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dash Grab ": {
@@ -731,7 +731,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Pivot Grab": {
@@ -743,7 +743,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Cargo Forward Throw": {
@@ -755,7 +755,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Cargo Back Throw": {
@@ -767,7 +767,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Cargo Up Throw": {
@@ -779,7 +779,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Cargo Down Throw": {
@@ -791,7 +791,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Throw": {
@@ -803,7 +803,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Up Throw": {
@@ -815,7 +815,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Down Throw": {
@@ -827,7 +827,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "": {
@@ -839,7 +839,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Spot Dodge": {
@@ -851,7 +851,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Roll": {
@@ -863,7 +863,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Roll": {
@@ -875,7 +875,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Neutral Air Dodge": {
@@ -887,7 +887,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (down)": {
@@ -899,7 +899,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally down)": {
@@ -911,7 +911,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (left or right)": {
@@ -923,7 +923,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally up)": {
@@ -935,7 +935,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (up)": {
@@ -947,7 +947,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     }
   },
@@ -961,7 +961,7 @@
       "Base Damage": "3.0",
       "Shieldlag": "8",
       "Shieldstun": "4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-12"
     },
     "Jab 2": {
@@ -973,7 +973,7 @@
       "Base Damage": "3.0",
       "Shieldlag": "6",
       "Shieldstun": "4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-16"
     },
     "Jab 3": {
@@ -985,7 +985,7 @@
       "Base Damage": "4.0",
       "Shieldlag": "11",
       "Shieldstun": "5",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-23"
     },
     "F-Tilt": {
@@ -997,7 +997,7 @@
       "Base Damage": "13.0",
       "Shieldlag": "9",
       "Shieldstun": "12",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-12"
     },
     "U-Tilt": {
@@ -1009,7 +1009,7 @@
       "Base Damage": "11.0",
       "Shieldlag": "8",
       "Shieldstun": "10",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-17"
     },
     "D-Tilt": {
@@ -1021,7 +1021,7 @@
       "Base Damage": "9.0",
       "Shieldlag": "7",
       "Shieldstun": "9",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-11"
     },
     "Dash Attack": {
@@ -1033,7 +1033,7 @@
       "Base Damage": "14.0",
       "Shieldlag": "9",
       "Shieldstun": "15",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-21"
     },
     "F-Smash 1": {
@@ -1045,7 +1045,7 @@
       "Base Damage": "7.0 /  14.0 /  5.0",
       "Shieldlag": "7/ 10/ 6",
       "Shieldstun": "6/ 10/ 4",
-      "<-Which hitbox?": "Close/ Tipper/ \nprojectile",
+      "Which hitbox?": "Close/ Tipper/ \nprojectile",
       "Advantage": "-27-23"
     },
     "F-Smash 2": {
@@ -1057,7 +1057,7 @@
       "Base Damage": "13.0",
       "Shieldlag": "14",
       "Shieldstun": "9",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-41"
     },
     "U-Smash": {
@@ -1069,7 +1069,7 @@
       "Base Damage": "4.0 /  3.0 /  10.0",
       "Shieldlag": "5/ 5/ 8",
       "Shieldstun": "4/ 3/ 8",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-28"
     },
     "D-Smash": {
@@ -1081,7 +1081,7 @@
       "Base Damage": "16.0 /  12.0",
       "Shieldlag": "10/ 9",
       "Shieldstun": "11/ 8",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-33/ -24"
     },
     "N-Air": {
@@ -1093,7 +1093,7 @@
       "Base Damage": "11.0 /  6.0",
       "Shieldlag": "8/ 6",
       "Shieldstun": "4/ 3",
-      "<-Which hitbox?": "Early/ Late",
+      "Which hitbox?": "Early/ Late",
       "Advantage": "-2/ -3"
     },
     "F-Air": {
@@ -1105,7 +1105,7 @@
       "Base Damage": "8.0 /  10.0",
       "Shieldlag": "7/ 10",
       "Shieldstun": "4/ 4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-7/ -7"
     },
     "B-Air": {
@@ -1117,7 +1117,7 @@
       "Base Damage": "5.0 /  7.0",
       "Shieldlag": "6/ 7",
       "Shieldstun": "3/ 3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-3/ -3"
     },
     "U-Air": {
@@ -1129,7 +1129,7 @@
       "Base Damage": "15.0/  13.0",
       "Shieldlag": "12/ 11",
       "Shieldstun": "5/ 5",
-      "<-Which hitbox?": "Early/ Late",
+      "Which hitbox?": "Early/ Late",
       "Advantage": "-9"
     },
     "D-Air": {
@@ -1141,7 +1141,7 @@
       "Base Damage": "18.0 /  15.0",
       "Shieldlag": "14/ 12",
       "Shieldstun": "6/ 5",
-      "<-Which hitbox?": "Early/ Late",
+      "Which hitbox?": "Early/ Late",
       "Advantage": ""
     },
     "Hero's Bow": {
@@ -1153,7 +1153,7 @@
       "Base Damage": "4.0 - 12.0\n",
       "Shieldlag": "5-9\n",
       "Shieldstun": "2-4\n",
-      "<-Which hitbox?": "Uncharged-\nFull Charge",
+      "Which hitbox?": "Uncharged-\nFull Charge",
       "Advantage": "-21/ -15\n"
     },
     "Boomerang": {
@@ -1165,7 +1165,7 @@
       "Base Damage": "8.0 /  9.6",
       "Shieldlag": "7/ 8",
       "Shieldstun": "3/ 4",
-      "<-Which hitbox?": "Tilt/ Smash",
+      "Which hitbox?": "Tilt/ Smash",
       "Advantage": "-8/ -6"
     },
     "Spin Attack": {
@@ -1177,7 +1177,7 @@
       "Base Damage": "14.0",
       "Shieldlag": "14",
       "Shieldstun": "13",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-56"
     },
     "Spin Attack (air)": {
@@ -1189,7 +1189,7 @@
       "Base Damage": "4.0 /  2.0 /  4.0",
       "Shieldlag": "5/ 4/ 11",
       "Shieldstun": "5/ 3/ 5",
-      "<-Which hitbox?": "First/ multi/ Final",
+      "Which hitbox?": "First/ multi/ Final",
       "Advantage": ""
     },
     "Remote Bomb (pull)": {
@@ -1201,7 +1201,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Remote Bomb (detonate)": {
@@ -1213,7 +1213,7 @@
       "Base Damage": "7.0",
       "Shieldlag": "7",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-19"
     },
     "Grab": {
@@ -1225,7 +1225,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dash Grab ": {
@@ -1237,7 +1237,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Pivot Grab": {
@@ -1249,7 +1249,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Throw": {
@@ -1261,7 +1261,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Throw": {
@@ -1273,7 +1273,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Up Throw": {
@@ -1285,7 +1285,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Down Throw": {
@@ -1297,7 +1297,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "": {
@@ -1309,7 +1309,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Spot Dodge": {
@@ -1321,7 +1321,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Roll": {
@@ -1333,7 +1333,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Roll": {
@@ -1345,7 +1345,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Neutral Air Dodge": {
@@ -1357,7 +1357,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (down)": {
@@ -1369,7 +1369,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally down)": {
@@ -1381,7 +1381,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (left or right)": {
@@ -1393,7 +1393,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally up)": {
@@ -1405,7 +1405,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (up)": {
@@ -1417,7 +1417,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     }
   },
@@ -1431,7 +1431,7 @@
       "Base Damage": "3.0",
       "Shieldlag": "5",
       "Shieldstun": "4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-11"
     },
     "Jab 2": {
@@ -1443,7 +1443,7 @@
       "Base Damage": "8.0",
       "Shieldlag": "7",
       "Shieldstun": "8",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-15"
     },
     "F-Tilt": {
@@ -1455,7 +1455,7 @@
       "Base Damage": "8.0 /  9.0 /  10.0",
       "Shieldlag": "7/ 7/ 8",
       "Shieldstun": "8/ 9/ 10",
-      "<-Which hitbox?": "close/ middle/ far",
+      "Which hitbox?": "close/ middle/ far",
       "Advantage": "-17/ -16/ -15"
     },
     "U-Tilt": {
@@ -1467,7 +1467,7 @@
       "Base Damage": "13.0",
       "Shieldlag": "9",
       "Shieldstun": "12",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-12"
     },
     "D-Tilt": {
@@ -1479,7 +1479,7 @@
       "Base Damage": "12.0",
       "Shieldlag": "9",
       "Shieldstun": "11",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-27"
     },
     "Dash Attack": {
@@ -1491,7 +1491,7 @@
       "Base Damage": "7.0 /  10.0 /  6.0",
       "Shieldlag": "7/ 8/ 6",
       "Shieldstun": "7/ 10/ 6",
-      "<-Which hitbox?": "Early/ late/ later",
+      "Which hitbox?": "Early/ late/ later",
       "Advantage": "-26"
     },
     "F-Smash ": {
@@ -1503,7 +1503,7 @@
       "Base Damage": "12.0 /  14.0",
       "Shieldlag": "9/ 10",
       "Shieldstun": "8/ 10",
-      "<-Which hitbox?": "Close/ Far",
+      "Which hitbox?": "Close/ Far",
       "Advantage": "-30/ -28"
     },
     "U-Smash": {
@@ -1515,7 +1515,7 @@
       "Base Damage": "3.0 /  6.0",
       "Shieldlag": "5/ 6",
       "Shieldstun": "3/ 5",
-      "<-Which hitbox?": "Multihit/ final",
+      "Which hitbox?": "Multihit/ final",
       "Advantage": "-24"
     },
     "D-Smash": {
@@ -1527,7 +1527,7 @@
       "Base Damage": "10.0 /  12.0",
       "Shieldlag": "8/ 9",
       "Shieldstun": "7/ 8",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-28/ -19"
     },
     "N-Air": {
@@ -1539,7 +1539,7 @@
       "Base Damage": "10.0 /  9.0",
       "Shieldlag": "8/ 7",
       "Shieldstun": "4/ 4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-5/ -5"
     },
     "F-Air": {
@@ -1551,7 +1551,7 @@
       "Base Damage": "3.0 /  1.6 /  5.0",
       "Shieldlag": "5/ 4/ 12",
       "Shieldstun": "2/ 2/ 3",
-      "<-Which hitbox?": "First/ multi/ final",
+      "Which hitbox?": "First/ multi/ final",
       "Advantage": "-12/ -12/ -11"
     },
     "B-Air": {
@@ -1563,7 +1563,7 @@
       "Base Damage": "14.0 /  9.0",
       "Shieldlag": "11/ 7",
       "Shieldstun": "5/ 4",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-9/ -10"
     },
     "U-Air": {
@@ -1575,7 +1575,7 @@
       "Base Damage": "3.0 /  1.2 /  4.0",
       "Shieldlag": "5/ 3/ 10",
       "Shieldstun": "2/ 2/ 3",
-      "<-Which hitbox?": "First/ multi/ final",
+      "Which hitbox?": "First/ multi/ final",
       "Advantage": "-16/ -16/ -15"
     },
     "D-Air": {
@@ -1587,7 +1587,7 @@
       "Base Damage": "10.0 /  14.0",
       "Shieldlag": "8/ 10",
       "Shieldstun": "4/ 5",
-      "<-Which hitbox?": "Early/  meteor",
+      "Which hitbox?": "Early/  meteor",
       "Advantage": "-8/ -7"
     },
     "Z-Air": {
@@ -1599,7 +1599,7 @@
       "Base Damage": "1.5",
       "Shieldlag": "7",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-5"
     },
     "Charge Shot (partial charge)": {
@@ -1611,7 +1611,7 @@
       "Base Damage": "5.0 - 26.1",
       "Shieldlag": "9-17",
       "Shieldstun": "3-8",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-19 to -6"
     },
     "Charge Shot (full charge)": {
@@ -1623,7 +1623,7 @@
       "Base Damage": "28.0",
       "Shieldlag": "17",
       "Shieldstun": "8",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-9 "
     },
     "Homing Missile": {
@@ -1635,7 +1635,7 @@
       "Base Damage": "8.0",
       "Shieldlag": "7",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-26"
     },
     "Super Missile": {
@@ -1647,7 +1647,7 @@
       "Base Damage": "12.0",
       "Shieldlag": "9",
       "Shieldstun": "4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-24"
     },
     "Screw Attack": {
@@ -1659,7 +1659,7 @@
       "Base Damage": "3.0 /  1.0 /  2.0",
       "Shieldlag": "5/ 4",
       "Shieldstun": "4/ 2",
-      "<-Which hitbox?": "First/ multi/ final",
+      "Which hitbox?": "First/ multi/ final",
       "Advantage": ""
     },
     "Screw Attack (air)": {
@@ -1671,7 +1671,7 @@
       "Base Damage": "1.0",
       "Shieldlag": "4",
       "Shieldstun": "2",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Bomb": {
@@ -1683,7 +1683,7 @@
       "Base Damage": "4.0 /  5.0",
       "Shieldlag": "5",
       "Shieldstun": "2",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Grab": {
@@ -1695,7 +1695,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dash Grab ": {
@@ -1707,7 +1707,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Pivot Grab ": {
@@ -1719,7 +1719,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Throw": {
@@ -1731,7 +1731,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Throw": {
@@ -1743,7 +1743,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Up Throw": {
@@ -1755,7 +1755,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Down Throw": {
@@ -1767,7 +1767,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "": {
@@ -1779,7 +1779,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Spot Dodge": {
@@ -1791,7 +1791,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Roll (Samus/ Dark Samus)": {
@@ -1803,7 +1803,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Roll (Samus/ Dark Samus)": {
@@ -1815,7 +1815,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Neutral Air Dodge": {
@@ -1827,7 +1827,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (down)": {
@@ -1839,7 +1839,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally down)": {
@@ -1851,7 +1851,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (left or right)": {
@@ -1863,7 +1863,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally up)": {
@@ -1875,7 +1875,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (up)": {
@@ -1887,7 +1887,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     }
   },
@@ -1901,7 +1901,7 @@
       "Base Damage": "3.0",
       "Shieldlag": "5",
       "Shieldstun": "4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-11"
     },
     "Jab 2": {
@@ -1913,7 +1913,7 @@
       "Base Damage": "8.0",
       "Shieldlag": "7",
       "Shieldstun": "8",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-15"
     },
     "F-Tilt": {
@@ -1925,7 +1925,7 @@
       "Base Damage": "8.0 /  9.0 /  10.0",
       "Shieldlag": "7/ 7/ 8",
       "Shieldstun": "8/ 9/ 10",
-      "<-Which hitbox?": "close/ middle/ far",
+      "Which hitbox?": "close/ middle/ far",
       "Advantage": "-17/ -16/ -15"
     },
     "U-Tilt": {
@@ -1937,7 +1937,7 @@
       "Base Damage": "13.0",
       "Shieldlag": "9",
       "Shieldstun": "12",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-12"
     },
     "D-Tilt": {
@@ -1949,7 +1949,7 @@
       "Base Damage": "12.0",
       "Shieldlag": "9",
       "Shieldstun": "11",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-27"
     },
     "Dash Attack": {
@@ -1961,7 +1961,7 @@
       "Base Damage": "7.0 /  10.0 /  6.0",
       "Shieldlag": "7/ 8/ 6",
       "Shieldstun": "7/ 10/ 6",
-      "<-Which hitbox?": "Early/ late/ later",
+      "Which hitbox?": "Early/ late/ later",
       "Advantage": "-26"
     },
     "F-Smash ": {
@@ -1973,7 +1973,7 @@
       "Base Damage": "12.0 /  14.0",
       "Shieldlag": "9/ 10",
       "Shieldstun": "8/ 10",
-      "<-Which hitbox?": "Close/ Far",
+      "Which hitbox?": "Close/ Far",
       "Advantage": "-30/ -28"
     },
     "U-Smash": {
@@ -1985,7 +1985,7 @@
       "Base Damage": "3.0 /  6.0",
       "Shieldlag": "5/ 6",
       "Shieldstun": "3/ 5",
-      "<-Which hitbox?": "Multihit/ final",
+      "Which hitbox?": "Multihit/ final",
       "Advantage": "-24"
     },
     "D-Smash": {
@@ -1997,7 +1997,7 @@
       "Base Damage": "10.0 /  12.0",
       "Shieldlag": "8/ 9",
       "Shieldstun": "7/ 8",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-28/ -19"
     },
     "N-Air": {
@@ -2009,7 +2009,7 @@
       "Base Damage": "10.0 /  9.0",
       "Shieldlag": "8/ 7",
       "Shieldstun": "4/ 4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-5/ -5"
     },
     "F-Air": {
@@ -2021,7 +2021,7 @@
       "Base Damage": "3.0 /  1.6 /  5.0",
       "Shieldlag": "5/ 4/ 12",
       "Shieldstun": "2/ 2/ 3",
-      "<-Which hitbox?": "First/ multi/ final",
+      "Which hitbox?": "First/ multi/ final",
       "Advantage": "-12/ -12/ -11"
     },
     "B-Air": {
@@ -2033,7 +2033,7 @@
       "Base Damage": "14.0 /  9.0",
       "Shieldlag": "11/ 7",
       "Shieldstun": "5/ 4",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-9/ -10"
     },
     "U-Air": {
@@ -2045,7 +2045,7 @@
       "Base Damage": "3.0 /  1.2 /  4.0",
       "Shieldlag": "5/ 3/ 10",
       "Shieldstun": "2/ 2/ 3",
-      "<-Which hitbox?": "First/ multi/ final",
+      "Which hitbox?": "First/ multi/ final",
       "Advantage": "-16/ -16/ -15"
     },
     "D-Air": {
@@ -2057,7 +2057,7 @@
       "Base Damage": "10.0 /  14.0",
       "Shieldlag": "8/ 10",
       "Shieldstun": "4/ 5",
-      "<-Which hitbox?": "Early/  meteor",
+      "Which hitbox?": "Early/  meteor",
       "Advantage": "-8/ -7"
     },
     "Z-Air": {
@@ -2069,7 +2069,7 @@
       "Base Damage": "1.5",
       "Shieldlag": "7",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-5"
     },
     "Charge Shot (partial charge)": {
@@ -2081,7 +2081,7 @@
       "Base Damage": "5.0 - 26.1",
       "Shieldlag": "9-17",
       "Shieldstun": "3-8",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-19 to -6"
     },
     "Charge Shot (full charge)": {
@@ -2093,7 +2093,7 @@
       "Base Damage": "28.0",
       "Shieldlag": "17",
       "Shieldstun": "8",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-9 "
     },
     "Homing Missile": {
@@ -2105,7 +2105,7 @@
       "Base Damage": "8.0",
       "Shieldlag": "7",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-26"
     },
     "Super Missile": {
@@ -2117,7 +2117,7 @@
       "Base Damage": "12.0",
       "Shieldlag": "9",
       "Shieldstun": "4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-24"
     },
     "Screw Attack": {
@@ -2129,7 +2129,7 @@
       "Base Damage": "3.0 /  1.0 /  2.0",
       "Shieldlag": "5/ 4",
       "Shieldstun": "4/ 2",
-      "<-Which hitbox?": "First/ multi/ final",
+      "Which hitbox?": "First/ multi/ final",
       "Advantage": ""
     },
     "Screw Attack (air)": {
@@ -2141,7 +2141,7 @@
       "Base Damage": "1.0",
       "Shieldlag": "4",
       "Shieldstun": "2",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Bomb": {
@@ -2153,7 +2153,7 @@
       "Base Damage": "4.0 /  5.0",
       "Shieldlag": "5",
       "Shieldstun": "2",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Grab": {
@@ -2165,7 +2165,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dash Grab ": {
@@ -2177,7 +2177,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Pivot Grab ": {
@@ -2189,7 +2189,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Throw": {
@@ -2201,7 +2201,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Throw": {
@@ -2213,7 +2213,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Up Throw": {
@@ -2225,7 +2225,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Down Throw": {
@@ -2237,7 +2237,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "": {
@@ -2249,7 +2249,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Spot Dodge": {
@@ -2261,7 +2261,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Roll (Samus/ Dark Samus)": {
@@ -2273,7 +2273,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Roll (Samus/ Dark Samus)": {
@@ -2285,7 +2285,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Neutral Air Dodge": {
@@ -2297,7 +2297,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (down)": {
@@ -2309,7 +2309,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally down)": {
@@ -2321,7 +2321,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (left or right)": {
@@ -2333,7 +2333,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally up)": {
@@ -2345,7 +2345,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (up)": {
@@ -2357,7 +2357,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     }
   },
@@ -2371,7 +2371,7 @@
       "Base Damage": "3.0",
       "Shieldlag": "7",
       "Shieldstun": "4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-10"
     },
     "Jab 2": {
@@ -2383,7 +2383,7 @@
       "Base Damage": "4.0",
       "Shieldlag": "11",
       "Shieldstun": "5",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-11"
     },
     "F-Tilt": {
@@ -2395,7 +2395,7 @@
       "Base Damage": "8.0",
       "Shieldlag": "7",
       "Shieldstun": "8",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-16"
     },
     "U-Tilt": {
@@ -2407,7 +2407,7 @@
       "Base Damage": "7.0",
       "Shieldlag": "7",
       "Shieldstun": "7",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-16"
     },
     "D-Tilt": {
@@ -2419,7 +2419,7 @@
       "Base Damage": "5.0 /  4.5 /  4.0",
       "Shieldlag": "6/ 6/ 5",
       "Shieldstun": "6/ 6/ 5",
-      "<-Which hitbox?": "Close/ middle/ far",
+      "Which hitbox?": "Close/ middle/ far",
       "Advantage": "-9/ -9/ -10"
     },
     "Dash Attack": {
@@ -2431,7 +2431,7 @@
       "Base Damage": "11.0 /  8.0",
       "Shieldlag": "8/ 7",
       "Shieldstun": "10/ 8",
-      "<-Which hitbox?": "Early/ Late",
+      "Which hitbox?": "Early/ Late",
       "Advantage": "-20"
     },
     "F-Smash ": {
@@ -2443,7 +2443,7 @@
       "Base Damage": "15.5",
       "Shieldlag": "10",
       "Shieldstun": "10",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-28"
     },
     "U-Smash": {
@@ -2455,7 +2455,7 @@
       "Base Damage": "14.0 /  12.0",
       "Shieldlag": "10/ 9",
       "Shieldstun": "10/ 8",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-24"
     },
     "D-Smash": {
@@ -2467,7 +2467,7 @@
       "Base Damage": "12.0 /  10.0",
       "Shieldlag": "9/ 8",
       "Shieldstun": "8/ 7",
-      "<-Which hitbox?": "Close/ Far",
+      "Which hitbox?": "Close/ Far",
       "Advantage": "-34/ -19"
     },
     "N-Air": {
@@ -2479,7 +2479,7 @@
       "Base Damage": "10.0 /  7.0 / 5.0",
       "Shieldlag": "8/ 7/ 6",
       "Shieldstun": "4/ 3/ 3",
-      "<-Which hitbox?": "Early/ Late/ latest",
+      "Which hitbox?": "Early/ Late/ latest",
       "Advantage": "-3/ -4/ -4"
     },
     "F-Air": {
@@ -2491,7 +2491,7 @@
       "Base Damage": "15.0 /  14.0",
       "Shieldlag": "10/ 10",
       "Shieldstun": "5/ 5",
-      "<-Which hitbox?": "Close/ meteor",
+      "Which hitbox?": "Close/ meteor",
       "Advantage": "-7/ -7"
     },
     "B-Air": {
@@ -2503,7 +2503,7 @@
       "Base Damage": "3.5 /  5.5",
       "Shieldlag": "5/ 9",
       "Shieldstun": "2/ 3",
-      "<-Which hitbox?": "Multihit/ Final",
+      "Which hitbox?": "Multihit/ Final",
       "Advantage": "-9/ -8"
     },
     "U-Air": {
@@ -2515,7 +2515,7 @@
       "Base Damage": "12.0",
       "Shieldlag": "9",
       "Shieldstun": "5",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-3"
     },
     "D-Air": {
@@ -2527,7 +2527,7 @@
       "Base Damage": "2.2 /  1.9 /  2.7 /  \n1.0",
       "Shieldlag": "5/ 4/ 7/ 4",
       "Shieldstun": "-/ 2/ 2/ 2",
-      "<-Which hitbox?": "Early multi/ Late\nmulti/ final/ landing",
+      "Which hitbox?": "Early multi/ Late\nmulti/ final/ landing",
       "Advantage": "-15"
     },
     "Egg Lay ": {
@@ -2539,7 +2539,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Egg Roll": {
@@ -2551,7 +2551,7 @@
       "Base Damage": "10.8 - 12.8",
       "Shieldlag": "8-9",
       "Shieldstun": "10-12",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-29 to -27"
     },
     "Egg Throw": {
@@ -2563,7 +2563,7 @@
       "Base Damage": "6.0",
       "Shieldlag": "6",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-30"
     },
     "Yoshi Bomb": {
@@ -2575,7 +2575,7 @@
       "Base Damage": "4.0 /  15.0 /  4.0",
       "Shieldlag": "5/ 10/ 3",
       "Shieldstun": "5/ 14/ 0",
-      "<-Which hitbox?": "Rising/ falling/ star",
+      "Which hitbox?": "Rising/ falling/ star",
       "Advantage": "-32"
     },
     "Yoshi Bomb (air)": {
@@ -2587,7 +2587,7 @@
       "Base Damage": "12.0 /  4.0",
       "Shieldlag": "9/ 3",
       "Shieldstun": "11/ 0",
-      "<-Which hitbox?": "falling/ star",
+      "Which hitbox?": "falling/ star",
       "Advantage": "-32"
     },
     "Grab": {
@@ -2599,7 +2599,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dash Grab ": {
@@ -2611,7 +2611,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Pivot Grab": {
@@ -2623,7 +2623,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Throw": {
@@ -2635,7 +2635,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Throw": {
@@ -2647,7 +2647,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Up Throw": {
@@ -2659,7 +2659,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Down Throw": {
@@ -2671,7 +2671,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "": {
@@ -2683,7 +2683,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Spot Dodge": {
@@ -2695,7 +2695,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Roll": {
@@ -2707,7 +2707,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Roll": {
@@ -2719,7 +2719,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Neutral Air Dodge": {
@@ -2731,7 +2731,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (down)": {
@@ -2743,7 +2743,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally down)": {
@@ -2755,7 +2755,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (left or right)": {
@@ -2767,7 +2767,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally up)": {
@@ -2779,7 +2779,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (up)": {
@@ -2791,7 +2791,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     }
   },
@@ -2805,7 +2805,7 @@
       "Base Damage": "1.7",
       "Shieldlag": "8",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-9"
     },
     "Jab 2": {
@@ -2817,7 +2817,7 @@
       "Base Damage": "1.6",
       "Shieldlag": "5",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-9"
     },
     "Rapid Jab": {
@@ -2829,7 +2829,7 @@
       "Base Damage": "0.2",
       "Shieldlag": "4",
       "Shieldstun": "-",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Rapid finisher.": {
@@ -2841,7 +2841,7 @@
       "Base Damage": "3.0",
       "Shieldlag": "15",
       "Shieldstun": "4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-32"
     },
     "F-Tilt": {
@@ -2853,7 +2853,7 @@
       "Base Damage": "8.0 /  7.0",
       "Shieldlag": "7/ 7",
       "Shieldstun": "8/ 7",
-      "<-Which hitbox?": "Close/ Far",
+      "Which hitbox?": "Close/ Far",
       "Advantage": "-14/ -15"
     },
     "U-Tilt": {
@@ -2865,7 +2865,7 @@
       "Base Damage": "5.0 /  4.0",
       "Shieldlag": "6/ 5",
       "Shieldstun": "6/ 5",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-10"
     },
     "D-Tilt": {
@@ -2877,7 +2877,7 @@
       "Base Damage": "6.0",
       "Shieldlag": "6",
       "Shieldstun": "6",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-10"
     },
     "Dash Attack": {
@@ -2889,7 +2889,7 @@
       "Base Damage": "10 /  7.0 /  5.0",
       "Shieldlag": "10/ 7/ 5",
       "Shieldstun": "10/ 7/ 5",
-      "<-Which hitbox?": "Early/ late/ latest",
+      "Which hitbox?": "Early/ late/ latest",
       "Advantage": "-40"
     },
     "F-Smash ": {
@@ -2901,7 +2901,7 @@
       "Base Damage": "15.0 /  11.0",
       "Shieldlag": "12/ 8",
       "Shieldstun": "10/ 8",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-24"
     },
     "U-Smash": {
@@ -2913,7 +2913,7 @@
       "Base Damage": "15.0 /  14.0 /  12.0",
       "Shieldlag": "10/ 9/ 9",
       "Shieldstun": "10/ 9/ 8",
-      "<-Which hitbox?": "close/ far/ late",
+      "Which hitbox?": "close/ far/ late",
       "Advantage": "-23/ -24"
     },
     "D-Smash": {
@@ -2925,7 +2925,7 @@
       "Base Damage": "14.0",
       "Shieldlag": "10",
       "Shieldstun": "10",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-33"
     },
     "N-Air": {
@@ -2937,7 +2937,7 @@
       "Base Damage": "10.0 /  4.0",
       "Shieldlag": "8/ 5",
       "Shieldstun": "4/ 3",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-2/ -3"
     },
     "F-Air": {
@@ -2949,7 +2949,7 @@
       "Base Damage": "4.0 /  3.0 /  5.0",
       "Shieldlag": "5/ 5/ 7",
       "Shieldstun": "3/ 2/ 3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-5/ -6/ -5"
     },
     "B-Air": {
@@ -2961,7 +2961,7 @@
       "Base Damage": "13.0 /  8.0",
       "Shieldlag": "11/ 7",
       "Shieldstun": "5/ 4",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-5/ -6"
     },
     "U-Air": {
@@ -2973,7 +2973,7 @@
       "Base Damage": "9.0",
       "Shieldlag": "7",
       "Shieldstun": "4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-3"
     },
     "D-Air": {
@@ -2985,7 +2985,7 @@
       "Base Damage": "1.2 /  2.0 /  2.0",
       "Shieldlag": "4/ 4/ 4",
       "Shieldstun": "2/ 3/ 3",
-      "<-Which hitbox?": "multi/ final/ landing",
+      "Which hitbox?": "multi/ final/ landing",
       "Advantage": "-13"
     },
     "Inhale": {
@@ -2997,7 +2997,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Inhale (copy/ spit)": {
@@ -3009,7 +3009,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Hammer Flip (release)": {
@@ -3021,7 +3021,7 @@
       "Base Damage": "19.0 - 28.8",
       "Shieldlag": "14-16",
       "Shieldstun": "17-25",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-26 to -18"
     },
     "Hammer Flip (full charge)": {
@@ -3033,7 +3033,7 @@
       "Base Damage": "35.0",
       "Shieldlag": "18",
       "Shieldstun": "30",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-18"
     },
     "Hammer Flip (air, no charge)": {
@@ -3045,7 +3045,7 @@
       "Base Damage": "16.0",
       "Shieldlag": "10/ 10",
       "Shieldstun": "14/ 14",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Final Cutter": {
@@ -3057,7 +3057,7 @@
       "Base Damage": "5.0 /  2.0 /  5.0",
       "Shieldlag": "6/ 4/ 6",
       "Shieldstun": "6/ 3/ 3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-21"
     },
     "Stone ": {
@@ -3069,7 +3069,7 @@
       "Base Damage": "14.0",
       "Shieldlag": "10",
       "Shieldstun": "13",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Stone (air)": {
@@ -3081,7 +3081,7 @@
       "Base Damage": "18.0",
       "Shieldlag": "11",
       "Shieldstun": "16",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-15"
     },
     "Grab": {
@@ -3093,7 +3093,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dash Grab ": {
@@ -3105,7 +3105,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Pivot Grab": {
@@ -3117,7 +3117,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Throw": {
@@ -3129,7 +3129,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Throw": {
@@ -3141,7 +3141,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Up Throw": {
@@ -3153,7 +3153,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Down Throw": {
@@ -3165,7 +3165,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "": {
@@ -3177,7 +3177,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Spot Dodge": {
@@ -3189,7 +3189,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Roll": {
@@ -3201,7 +3201,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Roll": {
@@ -3213,7 +3213,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Neutral Air Dodge": {
@@ -3225,7 +3225,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (down)": {
@@ -3237,7 +3237,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally down)": {
@@ -3249,7 +3249,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (left or right)": {
@@ -3261,7 +3261,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally up)": {
@@ -3273,7 +3273,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (up)": {
@@ -3285,7 +3285,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     }
   },
@@ -3299,7 +3299,7 @@
       "Base Damage": "1.8",
       "Shieldlag": "8",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-12"
     },
     "Jab 2": {
@@ -3311,7 +3311,7 @@
       "Base Damage": "1.0",
       "Shieldlag": "5",
       "Shieldstun": "2",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-16"
     },
     "Rapid Jab": {
@@ -3323,7 +3323,7 @@
       "Base Damage": "0.6",
       "Shieldlag": "4",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Rapid finisher.": {
@@ -3335,7 +3335,7 @@
       "Base Damage": "2.0",
       "Shieldlag": "14",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-32"
     },
     "F-Tilt": {
@@ -3347,7 +3347,7 @@
       "Base Damage": "6.0 /  7.0",
       "Shieldlag": "6/ 7",
       "Shieldstun": "6/ 7",
-      "<-Which hitbox?": "no angle/ angled",
+      "Which hitbox?": "no angle/ angled",
       "Advantage": "-11/ -10"
     },
     "U-Tilt": {
@@ -3359,7 +3359,7 @@
       "Base Damage": "6.0 /  8.0",
       "Shieldlag": "6/ 7",
       "Shieldstun": "6/ 8",
-      "<-Which hitbox?": "close/ far",
+      "Which hitbox?": "close/ far",
       "Advantage": "-18/ -16"
     },
     "D-Tilt": {
@@ -3371,7 +3371,7 @@
       "Base Damage": "8.0 /  7.0",
       "Shieldlag": "7/ 7",
       "Shieldstun": "8/ 7",
-      "<-Which hitbox?": "close/ far",
+      "Which hitbox?": "close/ far",
       "Advantage": "-12/ -13"
     },
     "Dash Attack": {
@@ -3383,7 +3383,7 @@
       "Base Damage": "6.0 /  4.0",
       "Shieldlag": "7/ 6",
       "Shieldstun": "10/ 7",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-17"
     },
     "F-Smash ": {
@@ -3395,7 +3395,7 @@
       "Base Damage": "14.0",
       "Shieldlag": "10",
       "Shieldstun": "10",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-22"
     },
     "U-Smash": {
@@ -3407,7 +3407,7 @@
       "Base Damage": "16.0 /  11.0",
       "Shieldlag": "10/ 8",
       "Shieldstun": "11/ 8",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-36"
     },
     "D-Smash": {
@@ -3419,7 +3419,7 @@
       "Base Damage": "14.0",
       "Shieldlag": "10",
       "Shieldstun": "10",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-36"
     },
     "N-Air": {
@@ -3431,7 +3431,7 @@
       "Base Damage": "9.0 /  6.0",
       "Shieldlag": "7/ 6",
       "Shieldstun": "4/ 3",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-3/ -4"
     },
     "F-Air": {
@@ -3443,7 +3443,7 @@
       "Base Damage": "1.8 /  1.2 /  1.7\n2.7 /  4.8 /  2.0",
       "Shieldlag": "4/ 4/ 4/ 5/ 12/ \n9",
       "Shieldstun": "2/ 2/ 2/ 2/ 3/ 3",
-      "<-Which hitbox?": "Last one is \nlanding hitbox",
+      "Which hitbox?": "Last one is \nlanding hitbox",
       "Advantage": "-15"
     },
     "B-Air": {
@@ -3455,7 +3455,7 @@
       "Base Damage": "13.0",
       "Shieldlag": "9",
       "Shieldstun": "5",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-4"
     },
     "U-Air": {
@@ -3467,7 +3467,7 @@
       "Base Damage": "5.0 /  10.0",
       "Shieldlag": "6/ 8",
       "Shieldstun": "3/ 4",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-10/ -9"
     },
     "D-Air": {
@@ -3479,7 +3479,7 @@
       "Base Damage": "1.4 /  3.0 /  1.0",
       "Shieldlag": "4/ 10/ 8",
       "Shieldstun": "2/ 2/ 2",
-      "<-Which hitbox?": "multi/ final/ landing",
+      "Which hitbox?": "multi/ final/ landing",
       "Advantage": "-15"
     },
     "Blaster (ground/ air)": {
@@ -3491,7 +3491,7 @@
       "Base Damage": "3.0 /  2.0 /  1.4",
       "Shieldlag": "5/ 4/ 4",
       "Shieldstun": "2/ 2/ 2",
-      "<-Which hitbox?": "Early/ late",
+      "Which hitbox?": "Early/ late",
       "Advantage": "-18/ -19/ -19"
     },
     "Fox Illusion ": {
@@ -3503,7 +3503,7 @@
       "Base Damage": "8.0",
       "Shieldlag": "7",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-20"
     },
     "Fox Illusion (air)": {
@@ -3515,7 +3515,7 @@
       "Base Damage": "5.0",
       "Shieldlag": "6",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-28"
     },
     "Fire Fox": {
@@ -3527,7 +3527,7 @@
       "Base Damage": "1.7 /  16.0",
       "Shieldlag": "4/ 10",
       "Shieldstun": "3/ 14",
-      "<-Which hitbox?": "multi/ final",
+      "Which hitbox?": "multi/ final",
       "Advantage": "-34"
     },
     "Reflector": {
@@ -3539,7 +3539,7 @@
       "Base Damage": "2.0",
       "Shieldlag": "7",
       "Shieldstun": "3",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": "-30"
     },
     "Grab": {
@@ -3551,7 +3551,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dash Grab ": {
@@ -3563,7 +3563,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Pivot Grab": {
@@ -3575,7 +3575,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Throw": {
@@ -3587,7 +3587,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Throw": {
@@ -3599,7 +3599,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Up Throw": {
@@ -3611,7 +3611,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Down Throw": {
@@ -3623,7 +3623,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "": {
@@ -3635,7 +3635,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Spot Dodge": {
@@ -3647,7 +3647,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Forward Roll": {
@@ -3659,7 +3659,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Back Roll": {
@@ -3671,7 +3671,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Neutral Air Dodge": {
@@ -3683,7 +3683,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (down)": {
@@ -3695,7 +3695,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally down)": {
@@ -3707,7 +3707,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (left or right)": {
@@ -3719,7 +3719,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (diagonally up)": {
@@ -3731,7 +3731,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     },
     "Dir. AD (up)": {
@@ -3743,7 +3743,7 @@
       "Base Damage": "",
       "Shieldlag": "",
       "Shieldstun": "",
-      "<-Which hitbox?": "",
+      "Which hitbox?": "",
       "Advantage": ""
     }
   },
