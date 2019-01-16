@@ -51,7 +51,7 @@ const fighterNames = {
   50: "Villager",
   51: "Mega Man",
   52: "Wii Fit Trainer",
-  53: "Rosalina and Luma",
+  53: "Rosalina And Luma",
   54: "Little Mac",
   55: "Greninja",
   56: "Mii Brawler",
