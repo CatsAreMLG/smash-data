@@ -3,7 +3,7 @@ import "./css/App.css";
 import fighterNames from "./names";
 import Characters from "./components/characters/Characters";
 
-const frameData = require("./FrameData.json");
+const frameData = require("./FrameData2.json");
 
 function getKeyByValue(object, value) {
   return Object.keys(object).find(key => object[key] === value);
