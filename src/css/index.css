@@ -121,7 +121,7 @@ table {
   border-spacing: 0;
   table-layout: auto;
 }
-@media (max-width: 460px) {
+@media (max-width: 860px) {
   table {
     left: 0;
     transform: translateX(0);
