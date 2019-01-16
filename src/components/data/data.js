@@ -7,7 +7,12 @@ const Data = props => {
     "Total Frames",
     "Landing Lag",
     "Changes from Smash 4",
-    "Additional Notes"
+    "Additional Notes",
+    "Base Damage",
+    "Shieldlag",
+    "Shieldstun",
+    "Which hitbox",
+    "Advantage"
   ];
   let description = [];
   if (props.data) {
@@ -30,7 +35,7 @@ const Data = props => {
           {moves.map((move, i) => (
             <tbody key={`${move}-${i}`}>
               <tr>
-                <td>{moves[i]}</td>
+                <td>{moves[i] || ""}</td>
                 {description[i].map((desc, i) => (
                   <td key={`${desc}-${i}`}>{desc}</td>
                 ))}

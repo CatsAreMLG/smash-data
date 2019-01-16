@@ -9,7 +9,7 @@ const Characters = props => {
     require.context("../../images/characters", false, /\.(png|jpe?g|svg)$/)
   );
 
-  for (let i = 0; i < 72; i++) {
+  for (let i = 0; i < 76; i++) {
     const charName = Object.keys(images[i])[0].split`.png`.join``.split`_`.map(
       e => e.toUpperCase()
     ).join` `;
